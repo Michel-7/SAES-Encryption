@@ -29,4 +29,4 @@ This is a Python implementation of **Simplified AES (S-AES)** using **ECB mode**
 ### 🔧 Run the Program
 
 ```bash
-python saes_ecb.py
+python main.py
